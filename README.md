@@ -1,1 +1,2 @@
-this is it.
+# This is group project by Mudit Jain(101903673) , Sushant Saini(101917157) , Ketan (101917205)
+GetSentiment is a sentiment analysis web app based on machine learning algorithm which helps users to get the ability to decide whether to watch a YouTube video or not. It reads topmost comments from a video and apply the algorithm which is trained on multiple datasets like IMDB , Twitter Tweets Sentiment and various independent datasets. Concluding , it helps user get back their dislike counter through comments.
