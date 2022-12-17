@@ -1,4 +1,4 @@
-#This is group project by <br>1. Mudit Jain(101903673) <br>2. Sushant Saini(101917157) <br>3. Ketan Sabharwal(101917205)
+#This is group project by <br>1. Mudit Jain(101903673) <br>2. Sushant Saini(101917157) <br>
 
 # TITLE : GetSentiment : Sentiment Analysis
 
