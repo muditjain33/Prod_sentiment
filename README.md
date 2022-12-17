@@ -3,7 +3,9 @@
 # TITLE : GetSentiment : Sentiment Analysis
 
 ## 1.Methodology
-<img width="106" alt="image" src="https://user-images.githubusercontent.com/59145085/208239033-c6cf3c5b-0dbe-4404-9896-b79760c44182.png">
+<img width="88" alt="image" src="https://user-images.githubusercontent.com/59145085/208239571-9aa9209d-920b-4b4c-9ecc-f1f9b2be2b84.png">
+
+
 
 ## 2.Description
 GetSentiment is a sentiment analysis web app based on machine learning algorithm which helps users to get the ability to decide whether to watch a YouTube video or not. It reads topmost comments from a video and apply the algorithm which is trained on multiple datasets like IMDB , Twitter Tweets Sentiment and various independent datasets. Concluding , it helps user get back their dislike counter through comments.
