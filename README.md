@@ -1,4 +1,4 @@
-#This is group project by Mudit Jain(101903673) , Sushant Saini(101917157) , Ketan (101917205)
+#This is group project by <br>1. Mudit Jain(101903673) <br>2. Sushant Saini(101917157) <br>3. Ketan Sabharwal(101917205)
 
 # TITLE : GetSentiment : Sentiment Analysis
 
@@ -11,11 +11,11 @@
 GetSentiment is a sentiment analysis web app based on machine learning algorithm which helps users to get the ability to decide whether to watch a YouTube video or not. It reads topmost comments from a video and apply the algorithm which is trained on multiple datasets like IMDB , Twitter Tweets Sentiment and various independent datasets. Concluding , it helps user get back their dislike counter through comments.
 
 Best Model : Naive Bayes Classifier
-Best Accuracy : 
+<br>Best Accuracy : 90%
 
 ## 3.Input/Output
 Input: Link of YouTube Video
-Output: Sentiment of the Video
+<br>Output: Sentiment of the Video
 
 ## 4.Live Link
 Link : [getsentiments.herokuapp.com](https://getsentiments.herokuapp.com/)
